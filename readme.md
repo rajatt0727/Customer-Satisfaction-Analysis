@@ -1,18 +1,6 @@
-Got it! Since this project is based on Power BI, I'll adjust the README file accordingly, removing any mention of Python code and focusing on how to work with the dataset in Power BI. Here's the revised **README.md** file:
-
----
-
-### ReadMe.md for Call Center Data Analysis
-
----
-
 ## Project Overview
 
 This project aims to analyze a **call center dataset** using Power BI to provide valuable insights based on key performance indicators (KPIs) related to call center operations. The analysis focuses on understanding call volume, agent performance, customer satisfaction, and call resolution metrics to help improve overall efficiency and customer experience.
-
-## Files Included
-- **Call-Center-Dataset.xlsx**: The primary dataset that contains call logs with columns such as caller ID, agent names, call times, topics, answered/resolved status, and customer satisfaction rates.
-- **PROBLEM_STATEMENT.docx**: A document outlining the specific KPIs and analysis requirements provided by the company.
 
 ## Steps Followed for Data Preparation and Analysis
 1. **Data Cleaning in Power BI**:
